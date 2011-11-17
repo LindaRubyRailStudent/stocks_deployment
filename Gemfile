@@ -8,6 +8,7 @@ gem 'rails', '3.1.0.rc8'
 gem 'sqlite3'
 gem 'ystock'
 gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
 
 
 # Gems used only for assets and not required
